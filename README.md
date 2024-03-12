@@ -1,6 +1,7 @@
-# tips-tricks
+# tips-tricks for using PC/Laptop more effectively
+Star if you find this helpful! Thank you.
 
-# Script Bypass Almost All Shorten Links
+# SCRIPT BYPASS ALMOST ALL SHORTEN LINKS
 - B1: Cài tampermonkey
 - B2: Cài 2 bản phía dưới vào tampermonkey
 
@@ -17,13 +18,13 @@ https://greasyfork.org/en/scripts/443888-additional-bypass
 
 # HƯỚNG DẪN CÀI SCRIPT CHẶN QUẢNG CÁO YOUTUBE 
 
-Bước 1 : Vào link này để cài extension này về 
+- B1: Vào link này để cài extension này về:
 https://chromewebstore.google.com/detail/tampermonkey/dhdgffkkebhmkfjojejmpbldmpobfkfo?hl=vi
 
-Bước 2 : Vào link này để cài script về
+- B2: Vào link này để cài script về:
 https://greasyfork.org/en/scripts/459541-youtube去广告-youtube-ad-blocker
 
-Bước 3 : mở tab mới gõ youtube , bật video bất kỳ và hưởng thụ như premium =))
+- B3 : mở tab mới gõ youtube , bật video bất kỳ và hưởng thụ như premium =))
 
 P/s : dùng cái này nó không hiện cái bảng bắt mua premium bởi vì bản chất nó skip nhanh qua quảng cáo mà chứ đâu phải chặn bla bla
 
