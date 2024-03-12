@@ -12,8 +12,8 @@ https://greasyfork.org/en/scripts/443888-additional-bypass
 
 - B3: Tắt trình duyệt mở lại và tận hưởng
 
-!Note: Bypass được hầu hết các link rút gọn
-!Note: Trên mạng có chỉ cài FastFoward --> cái đó vô nghĩa lắm xoá đi là vừa
+- !Note: Bypass được hầu hết các link rút gọn
+- !Note: Trên mạng có chỉ cài FastFoward --> cái đó vô nghĩa lắm xoá đi là vừa
 
 # Script Bypass Almost All Shorten Links
 
